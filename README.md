@@ -21,7 +21,7 @@ This project demonstrates a real-time data pipeline using Kafka, Spark Streaming
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MaksymKashuba/kafka-spark-streaming-elastic-kibana.git
    cd kafka-spark-streaming-elastic-kibana
    ```
 
