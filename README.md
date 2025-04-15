@@ -66,7 +66,3 @@ This project demonstrates a real-time data pipeline using Kafka, Spark Streaming
 
 - Ensure that the Kafka topic specified in the `.env` file matches the topic created in the `docker-compose.yml`.
 - Modify the `censored.txt` file to update the list of censored words.
-
-## License
-
-This project is licensed under the MIT License.
